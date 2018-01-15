@@ -1,0 +1,44 @@
+/* reset */
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+/* body */
+
+.inicio{
+	margin: 40px;
+	text-align: center;
+}
+
+.inicio h1{
+	text-transform: uppercase;
+	font-family: monospace;
+	margin: 20px;
+	
+}
+
+.sobre{
+	padding: 20px;
+}
+
+.sobre h3{
+	text-transform: uppercase;
+	padding: 10px 0;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.sobre img{
+	border: 3px solid #252525;
+	width: 360px;
+	display: block;
+	margin: 0 auto;
+}
+
+.sobre p{
+	padding: 10px 0;
+	text-align: center;
+}
+

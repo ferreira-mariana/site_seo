@@ -1,0 +1,40 @@
+/* reset */
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+/* body */
+
+.inicio{
+	margin: 40px;
+	text-align: center;
+}
+
+.inicio h1{
+	text-transform: uppercase;
+	font-family: monospace;
+	margin: 20px;
+}
+
+.inicio p{
+	padding: 10px 0;
+	font-size: 1.125em;	
+}
+
+.lutas{
+	margin: 20px;
+}
+
+.lutas img{
+	max-width: 420px;
+	display: block;	
+	margin: 0 auto;
+}
+
+.lutas p{
+	margin: 20px;
+	text-align: center;
+}
+

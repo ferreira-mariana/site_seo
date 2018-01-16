@@ -18,28 +18,29 @@
 .inicio h1{
 	text-transform: uppercase;
 	margin: 20px;
-	letter-spacing: 3px;
+	letter-spacing: 3px;	
 }
 
+
 .inicio p{
-	padding: 5px 0;
+	padding: 5px 30px;
 	font-size: 1.4em;
 	letter-spacing: 2px;	
 	word-spacing: 8px;
 
 }
 
-.lutas{
+.tatuagem{
 	margin: 20px;
 }
 
-.lutas img{
+.tatuagem img{
 	max-width: 420px;
 	display: block;	
 	margin: 0 auto;
 }
 
-.lutas p{
+.tatuagem p{
 	margin: 20px;
 	text-align: center;
 	font-size: 1.125em;

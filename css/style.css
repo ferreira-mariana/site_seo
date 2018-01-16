@@ -42,7 +42,7 @@
 .sobre a{
 	display: block;  /*para modificar o link*/
 	width: 140px;
-	border: 3px solid black;
+	border: 2px solid black;
 	color: black;
 	text-decoration: none;
 	font-weight: 700; /*ou bold*/
@@ -60,7 +60,7 @@
 }
 
 .sobre img{
-	border: 3px solid #252525;
+	border: 2px solid #252525;
 	width: 360px;
 	display: block;
 	margin: 20px auto;
